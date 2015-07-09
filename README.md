@@ -4,9 +4,9 @@
 
 ## Installation
 
-Install package with NPM and add it to your development dependencies:
+Install package with NPM:
 
-`npm install --save-dev gulp-wind-tpl2js`
+`npm install gulp-wind-tpl2js`
 
 ## Usage
 

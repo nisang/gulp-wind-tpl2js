@@ -1,6 +1,6 @@
 {
   "name": "gulp-wind-tpl2js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "compile template to js string, and wrap as amd/cmd module.",
   "main": "index.js",
   "scripts": {
